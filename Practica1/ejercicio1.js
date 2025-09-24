@@ -12,7 +12,7 @@ function f(t) {
   }
   return r;
 }
-
-// Ejemplo de uso
+//ejemplo de uso
 let obj = f("Matematica");
+
 console.log(obj);
